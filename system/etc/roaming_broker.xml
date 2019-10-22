@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--sunxuwen created
+格式如下：
+    <roaming-broker home_mccmnc=""
+              roaming_mccmnc=""
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+-->
+
+<global-conf>   
+
+    <roaming-broker home_mccmnc="21418"
+              roaming_mccmnc="21405"
+              home_voice_mail="1214"
+              roaming_voice_mail="+34601001214"
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="21421"
+              roaming_mccmnc="21407"
+              home_voice_mail="1222"
+              roaming_voice_mail="+34640001222"
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="26211"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="23410"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="26012"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="25037"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="63104"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="28020"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="36301"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="29364"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="722010"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="722070"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="710300"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="73404"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="74000"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="73002"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="732123"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="70403"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="71402"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="71606"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="74807"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="72406"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="72410"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="72411"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="72423"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="21418"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="26802"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="71204"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="27211"
+              roaming_mccmnc="20601"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="20605"
+              roaming_mccmnc="20610"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+32468146810"
+              roaming_sms_center="+324750004179100"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807501"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+316801903500"
+              roaming_sms_center="+31653079060"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807502"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+316801903500"
+              roaming_sms_center="+31653079060"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807503"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+316801903500"
+              roaming_sms_center="+31653079060"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807504"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+316801903500"
+              roaming_sms_center="+31653079060"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807510"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+316801903500"
+              roaming_sms_center="+31653079060"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807511"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+316801903500"
+              roaming_sms_center="+31653079060"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807512"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+316801903500"
+              roaming_sms_center="+31653079060"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807513"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+316801903500"
+              roaming_sms_center="+31653079060"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807514"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+316801903500"
+              roaming_sms_center="+31653079060"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807515"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+316801903500"
+              roaming_sms_center="+31653079060"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807516"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+316801903500"
+              roaming_sms_center="+31653079060"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807517"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+316801903500"
+              roaming_sms_center="+31653079060"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807518"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+316801903500"
+              roaming_sms_center="+31653079060"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807519"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+316801903500"
+              roaming_sms_center="+31653079060"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807505"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+417840903500"
+              roaming_sms_center="+31653079062"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807506"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+417840903500"
+              roaming_sms_center="+31653079062"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807507"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+417840903500"
+              roaming_sms_center="+31653079062"
+    />
+
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807508"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+417840903500"
+              roaming_sms_center="+31653079062"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807509"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+417840903500"
+              roaming_sms_center="+31653079062"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807520"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+417840903500"
+              roaming_sms_center="+31653079062"
+    />
+
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807521"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+417840903500"
+              roaming_sms_center="+31653079062"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807522"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+316801903500"
+              roaming_sms_center="+31653079060"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807523"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+417840903500"
+              roaming_sms_center="+31653079062"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807524"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+316801903500"
+              roaming_sms_center="+31653079060"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807525"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+417840903500"
+              roaming_sms_center="+31653079062"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807526"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+417840903500"
+              roaming_sms_center="+31653079062"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807527"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+417840903500"
+              roaming_sms_center="+31653079062"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807528"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+417840903500"
+              roaming_sms_center="+31653079062"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807529"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+417840903500"
+              roaming_sms_center="+31653079062"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807530"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+36317900350"
+              roaming_sms_center="+31653079063"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807531"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+36317900350"
+              roaming_sms_center="+31653079063"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807532"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+36317900350"
+              roaming_sms_center="+31653079063"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807533"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+36317900350"
+              roaming_sms_center="+31653079063"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807534"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+316801903500"
+              roaming_sms_center="+31653079060"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807535"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+316801903500"
+              roaming_sms_center="+31653079060"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807536"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+36317900350"
+              roaming_sms_center="+31653079063"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807537"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+36317900350"
+              roaming_sms_center="+31653079063"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807538"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+36317900350"
+              roaming_sms_center="+31653079063"
+    />
+
+    <roaming-broker home_mccmnc="20418"
+              roaming_mccmnc="2040807539"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+36317900350"
+              roaming_sms_center="+31653079063"
+    />
+
+    <roaming-broker home_mccmnc="42507"
+              roaming_mccmnc="20404"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="23213"
+              roaming_mccmnc="204080754"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center="+4366100003500"
+              roaming_sms_center="+31653079064"
+    />
+
+    <roaming-broker home_mccmnc="72406"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="72410"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="72411"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+
+    <roaming-broker home_mccmnc="72423"
+              roaming_mccmnc="21407"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+    
+  <roaming-broker home_mccmnc="334050"
+              roaming_mccmnc="22201"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+  
+    <roaming-broker home_mccmnc="334050"
+              roaming_mccmnc="20601"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+      <roaming-broker home_mccmnc="334090"
+              roaming_mccmnc="22201"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+      <roaming-broker home_mccmnc="334090"
+              roaming_mccmnc="20601"
+              home_voice_mail=""
+              roaming_voice_mail=""
+              home_sms_center=""
+              roaming_sms_center=""
+    />
+</global-conf> 

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<voicemail>
+<voicemail numeric="330110" carrier="CLARO" vmnumber="*86" vmtag=""/>
+<voicemail numeric="334020" carrier="TELCEL" vmnumber="*86" vmtag=""/>
+<voicemail numeric="334050" carrier="Iusacell" vmnumber="*86" vmtag=""/>
+<voicemail numeric="20601" carrier="" vmnumber="*86" vmtag=""/>
+<voicemail numeric="22201" carrier="I TIM" vmnumber="*86" vmtag=""/>
+<voicemail numeric="334030" carrier="Movistar" vmnumber="186" vmtag=""/>
+<voicemail numeric="33403" carrier="Movistar" vmnumber="186" vmtag=""/>
+<voicemail numeric="334090" carrier="Nextel" vmnumber="+525535396245" vmtag=""/>
+<voicemail numeric="71203" carrier="CLARO" vmnumber="*80" vmtag=""/>
+<voicemail numeric="71606" carrier="movistar" vmnumber="*169" vmtag=""/>
+<voicemail numeric="71610" carrier="Claro" vmnumber="131" vmtag=""/>
+<voicemail numeric="72207" carrier="Movistar" vmnumber="555" vmtag=""/>
+<voicemail numeric="72405" carrier="Claro" vmnumber="*100" vmtag=""/>
+<voicemail numeric="72406" carrier="VIVO" vmnumber="*555" vmtag=""/>
+<voicemail numeric="72410" carrier="VIVO" vmnumber="*555" vmtag=""/>
+<voicemail numeric="72411" carrier="VIVO" vmnumber="*555" vmtag=""/>
+<voicemail numeric="72423" carrier="VIVO" vmnumber="*555" vmtag=""/>
+<voicemail numeric="72402" carrier="TIM" vmnumber="*100" vmtag=""/>
+<voicemail numeric="72403" carrier="TIM" vmnumber="*100" vmtag=""/>
+<voicemail numeric="72404" carrier="TIM" vmnumber="*100" vmtag=""/>
+<voicemail numeric="72431" carrier="Oi" vmnumber="*100" vmtag=""/>
+<voicemail numeric="72424" carrier="Oi" vmnumber="*100" vmtag=""/>
+<voicemail numeric="72416" carrier="Oi" vmnumber="*100" vmtag=""/>
+<voicemail numeric="72439" carrier="Nextel" vmnumber="*100" vmtag=""/>
+<voicemail numeric="73001" carrier="entel" vmnumber="#123" vmtag=""/>
+<voicemail numeric="73010" carrier="entel" vmnumber="#123" vmtag=""/>
+<voicemail numeric="73002" carrier="Movistar" vmnumber="500" vmtag=""/>
+<voicemail numeric="73003" carrier="claro" vmnumber="*20" vmtag=""/>
+<voicemail numeric="732130" carrier="Avantel" vmnumber="*123" vmtag=""/>
+<voicemail numeric="73212" carrier="Movistar" vmnumber="*123" vmtag=""/>
+<voicemail numeric="732123" carrier="Movistar" vmnumber="*123" vmtag=""/>
+<voicemail numeric="732103" carrier="TIGO" vmnumber="*123" vmtag=""/>
+<voicemail numeric="732111" carrier="TIGO" vmnumber="*123" vmtag=""/>
+<voicemail numeric="74801" carrier="AntelUruguay" vmnumber="*66" vmtag=""/>
+<voicemail numeric="74807" carrier="MovistarUruguay" vmnumber="6684" vmtag=""/>
+</voicemail>

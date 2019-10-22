@@ -1,0 +1,13 @@
+#Copyright (c) 2016 Qualcomm Technologies, Inc.
+#All Rights Reserved.
+#Confidential and Proprietary - Qualcomm Technologies, Inc.
+
+#set system locale#
+persist.sys.locale=it-IT
+# Set system language #
+persist.sys.language=it
+# Set system country #
+persist.sys.country=IT
+
+ro.telephony.default_network=9
+ro.com.android.dataroaming=true

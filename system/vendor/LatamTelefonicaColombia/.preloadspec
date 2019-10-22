@@ -1,0 +1,1 @@
+MCCMNC="732001,732102,732123" Name="TelefonicaColombia" Brand="Telefonica" Target="Colombia" Show-SIM-SPN="False" Hierarchy="Operator" Priority="1100" Dependency="Region/LatamTelefonica" Storage="preset"

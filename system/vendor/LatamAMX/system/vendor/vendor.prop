@@ -1,0 +1,12 @@
+#
+# ADDITIONAL_FEATURE_PROPERTIES FOR LATAM_AMX SPEC
+#
+####################################################
+#Set the current spec as LatamAMX#
+persist.env.spec=LatamAMX
+
+#set system locale#
+persist.sys.locale=es-US
+
+# Disable radio tech support when PLMN search and select network
+persist.radio.rat_on=

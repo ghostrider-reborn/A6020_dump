@@ -1,0 +1,22 @@
+#
+# ADDITIONAL_FEATURE_PROPERTIES FOR TimBr SPEC
+#
+####################################################
+#Set the current spec as TimBr#
+persist.env.spec=TimBr
+persist.carrier = timbr
+ro.carrier = timbr
+#Bug 126711, bulonglong.wt, add, 20151209
+persist.sys.timezone = America/Sao_Paulo
+#yangxin.wt phone number min_match
+persist.radio.phone.matchnum=7
+persist.radio.phone.maxmatchnum=10
+#Bug 127414, zhaolei.wt, add, 20151211
+persist.sys.language = pt
+persist.sys.country = BR
+#zhaoqf_sh add for coutry ISO 2015-12-17 default CN
+ro.lenovo.easyimage.code=brtim
+persist.sys.sw.firstLaunch = true
+#bug152130 zhaoqf_sh add to disable adb function after switch carrier 2016-03-01
+persist.radio.adb.enabled=0
+persist.sys.usb.config=mtp

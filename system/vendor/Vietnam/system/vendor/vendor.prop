@@ -1,0 +1,18 @@
+#
+# ADDITIONAL_FEATURE_PROPERTIES FOR Malaysia SPEC
+#
+####################################################
+#Set the current spec as Malaysia#
+persist.env.spec=Vietnam
+persist.carrier = vietnam
+#VIET NAM, 7:00
+persist.sys.timezone=Asia/Saigon
+#yangxin.wt phone number min_match
+persist.radio.phone.matchnum=7
+#zhaoqf_sh add for coutry ISO 2015-12-17 default CN
+ro.lenovo.easyimage.code=vn
+
+
+
+
+

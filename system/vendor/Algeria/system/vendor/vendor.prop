@@ -1,0 +1,12 @@
+#
+# ADDITIONAL_FEATURE_PROPERTIES FOR Malaysia SPEC
+#
+####################################################
+#Set the current spec as Malaysia#
+persist.env.spec=Algeria
+persist.carrier = algeria
+#zhaoqf_sh add for coutry ISO 2015-12-17 default CN
+ro.lenovo.easyimage.code=dz
+
+
+
