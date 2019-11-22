@@ -1,0 +1,14 @@
+#
+# ADDITIONAL_FEATURE_PROPERTIES FOR Malaysia SPEC
+#
+####################################################
+#Set the current spec as Malaysia#
+persist.env.spec=Nigeria
+persist.carrier = nigeria
+#NIGERIA, 1:00
+persist.sys.timezone=Africa/Lagos
+#zhaoqf_sh add for coutry ISO 2015-12-17 default CN
+ro.lenovo.easyimage.code=ng
+#bug161615 zhaoqf_sh modify for EMEA carrier
+ro.lenovo.series=Lenovo K5
+

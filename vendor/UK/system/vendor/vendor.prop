@@ -1,0 +1,12 @@
+#
+# ADDITIONAL_FEATURE_PROPERTIES FOR UK SPEC
+#
+####################################################
+#Set the current spec as UK#
+persist.env.spec=UK
+persist.carrier = uk
+#zhaoqf_sh add for coutry ISO 2015-12-17 default CN
+ro.lenovo.easyimage.code=gb
+#bug161615 zhaoqf_sh modify for EMEA carrier
+ro.lenovo.series=Lenovo K5
+

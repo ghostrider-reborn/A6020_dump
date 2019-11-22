@@ -1,0 +1,16 @@
+#
+# ADDITIONAL_FEATURE_PROPERTIES FOR Malaysia SPEC
+#
+####################################################
+#Set the current spec as Malaysia#
+persist.env.spec=Taiwan
+persist.carrier = taiwan
+#TAIWAN, PROVINCE OF CHINA, 8:00
+persist.sys.timezone=Asia/Taipei
+#zhaoqf_sh add for coutry ISO 2015-12-17 default CN
+ro.lenovo.easyimage.code=tw
+
+
+
+
+

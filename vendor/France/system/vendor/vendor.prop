@@ -1,0 +1,12 @@
+#
+# ADDITIONAL_FEATURE_PROPERTIES FOR France SPEC
+#
+####################################################
+#Set the current spec as France#
+persist.env.spec=France
+persist.carrier = france
+#zhaoqf_sh add for coutry ISO 2015-12-17 default CN
+ro.lenovo.easyimage.code=fr
+#bug161615 zhaoqf_sh modify for EMEA carrier
+ro.lenovo.series=Lenovo K5
+

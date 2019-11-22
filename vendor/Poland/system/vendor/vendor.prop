@@ -1,0 +1,12 @@
+#
+# ADDITIONAL_FEATURE_PROPERTIES FOR Poland SPEC
+#
+####################################################
+#Set the current spec as Poland#
+persist.env.spec=Poland
+persist.carrier = poland
+#zhaoqf_sh add for coutry ISO 2015-12-17 default CN
+ro.lenovo.easyimage.code=pl
+#bug161615 zhaoqf_sh modify for EMEA carrier
+ro.lenovo.series=Lenovo K5
+

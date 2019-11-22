@@ -1,0 +1,11 @@
+#
+# ADDITIONAL_FEATURE_PROPERTIES FOR Malaysia SPEC
+#
+####################################################
+#Set the current spec as Malaysia#
+persist.env.spec=Singapore
+persist.carrier = singapore
+#SINGAPORE, 8:00
+persist.sys.timezone=Asia/Singapore
+#zhaoqf_sh add for coutry ISO 2015-12-17 default CN
+ro.lenovo.easyimage.code=sg
